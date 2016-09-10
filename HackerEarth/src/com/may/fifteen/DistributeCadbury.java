@@ -1,6 +1,6 @@
 package com.may.fifteen;
 
-public class CandidateCode {
+public class DistributeCadbury {
 
 	 public static int distributeCadbury(int input1,int input2,int input3,int input4)
 	    {

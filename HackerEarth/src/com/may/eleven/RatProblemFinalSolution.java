@@ -1,7 +1,7 @@
 package com.may.eleven;
 
 import java.io.*;
-public class CandidateCode3 
+public class RatProblemFinalSolution 
 { 
 
     static int r,c;

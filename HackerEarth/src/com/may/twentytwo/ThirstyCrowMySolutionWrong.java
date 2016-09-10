@@ -2,7 +2,7 @@ package com.may.twentytwo;
 
 import java.util.Arrays;
 
-public class CandidateCode {
+public class ThirstyCrowMySolutionWrong {
 
 	public static int ThirstyCrowProblem(int[] input1,int input2,int input3)
 	{
