@@ -6,7 +6,7 @@ import java.util.HashMap;
 import java.util.List;
 import java.util.Map;
 
-public class CandidateCode {
+public class RatProblem {
 
 	static int rectX=0;
 	static int rectY=0;
